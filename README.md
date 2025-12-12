@@ -1,2 +1,17 @@
 # REAL-TIME-CHAT-APP
-E-LEARNING-PLATFORM-UI COMPANY : CODTECH IT SLOUTIONS  NAME : SAHANA S N  INTERN ID : CT04DR1717  DOMAIN : FRONTEND WEB DEVELOPMENT  DURATION : 4 WEEKS  MENTOR : NEELA SANTOSH  Description of Task: Responsive E-Learning Platform UI with course listings, progress tracking via interactive dashboards, and embedded video players—built fo
+
+COMPANY : CODTECH IT SLOUTIONS
+
+NAME : SAHANA S N
+
+INTERN ID : CT04DR1717
+
+DOMAIN : FRONTEND WEB DEVELOPMENT
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTOSH
+
+Description of Task: Built real-time chat app with React.js frontend & WebSockets. **Tools**: React.js, Socket.io, Node.js/Express, CSS (responsive), localStorage (message history). **Applicable**: Live messaging, user presence, responsive UI, persistent chat history. Modern real-time web demo!
+
+#Output
