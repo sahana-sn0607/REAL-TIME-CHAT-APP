@@ -15,3 +15,6 @@ MENTOR : NEELA SANTOSH
 Description of Task: Built real-time chat app with React.js frontend & WebSockets. **Tools**: React.js, Socket.io, Node.js/Express, CSS (responsive), localStorage (message history). **Applicable**: Live messaging, user presence, responsive UI, persistent chat history. Modern real-time web demo!
 
 #Output
+
+
+![Image](https://github.com/user-attachments/assets/cf079cba-fc3d-4261-a469-84d9c4fbaae1)
